@@ -1,5 +1,5 @@
 {
-  "name": "myportfoliosite",
+  "name": "c",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -17,5 +17,13 @@
   },
   "devDependencies": {
     "gh-pages": "^2.2.0"
-  }
+  },
+  "description": "Clone repo, install, cd into folder and run:\r ```git\r npm install\r npm start\r ```",
+  "main": "cd",
+  "repository": {
+    "type": "git",
+    "url": "install npm"
+  },
+  "author": "",
+  "license": "ISC"
 }
